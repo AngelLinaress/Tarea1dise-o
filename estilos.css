@@ -1,0 +1,30 @@
+h1 {
+    background-image: url("plantass.jpg"); 
+    margin-top: 40px;
+    border-style: dotted;
+    border-width: 0px;
+    padding: 70px;
+    font-size: 60px;
+    text-align: left;
+    text-align: left; color: rgb(255, 255, 255);
+}
+
+p.CCS {
+    margin-top: 40px;
+    border-style: solid; 
+    border-width: 1px;
+    padding: 70px;
+    font-size: 20px;
+    text-align: left; color: rgb(8, 84, 33);
+    background-color: aliceblue;
+}
+
+h2 {
+    margin-top: 40px;
+    border-style: solid; 
+    border-width: 0px;
+    padding: 60px;
+    font-size: 20px;
+    text-align: left; color: rgb(118, 180, 104);
+    background-color: rgb(209, 255, 182);
+}
